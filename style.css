@@ -1,0 +1,36 @@
+.home {
+    width: 1px;
+    height: 10px;
+    background-color: black;
+    padding: 1px;
+}
+
+.card {
+    margin: 20px;
+    display: none;
+}
+
+.mo {
+    display: none;
+    margin: 20px;
+}
+
+h1 {
+    display: none;
+}
+
+.card-title {
+    color: black;
+}
+
+.card-text {
+    color: black;
+}
+
+.btn btn-primary {
+    color: black;
+}
+
+.card-body {
+    background-color: white;
+}
